@@ -1,0 +1,39 @@
+VISAGE
+v1.0
+by Kaelri
+
+------------------------------------------------------------------------------------------------
+
+INSTRUCTIONS
+
+When Visage is running, the following hotkeys become available to you:
+
+[Windows Key] + [Ctrl] + [1-8]: Set the transparency of the active window.
+[Windows Key] + [Alt] + [1-8]: Set the transparency of the taskbar.
+[Windows Key] + [Pause]: Toggle the taskbar on/off.
+
+1	100% opaque.
+2	95% opaque.
+3	90% opaque.
+4	85% opaque.
+5	80% opaque.
+6	50% opaque.
+7	30% opaque.
+8	10% opaque.
+
+------------------------------------------------------------------------------------------------
+
+CREDITS
+
+Visage is released under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 license. (http://creativecommons.org/licenses/by-nc-sa/3.0/) In other words, you're free to mod/port it as long as you credit me (and the people below), you don't make money from it, and you share it on the same terms.
+
+Visage makes use of the following materials:
+
+- "ecqlipse 2" icons by chrfb [Creative Commons]
+	(http://chrfb.deviantart.com/art/quot-ecqlipse-2-quot-PNG-59941546)
+
+------------------------------------------------------------------------------------------------
+
+Home		http://enigma.kaelri.com
+Forum		http://rainmeter.net/forum/viewtopic.php?f=4&t=1137
+Email		Kaelri+lcd@gmail.com
